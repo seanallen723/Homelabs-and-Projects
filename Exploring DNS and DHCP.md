@@ -10,6 +10,10 @@ to my home server remotely from anywhere on the Internet, even if the ISP freque
 
 ##
 
+  *
+  *
+  *
+  
 ##
 
 ##
