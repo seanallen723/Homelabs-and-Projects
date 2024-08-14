@@ -9,6 +9,11 @@ I am a passionate, intuitive, and motivated uprising junior at Rutgers Universit
 
 If anyone is viewing this, come along and join me in my journey to explore and learn new things within the field of cybersecurity, networking, and cloud!
 
+### Skills  
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| DNS and DHCP | Learned more in-depth knowledge and functioning of these protocols. |
+
 # Homelabs-and-Projects
 For self-improvement and knowledge. 
 
